@@ -1,7 +1,9 @@
-git clone
+git clone url
 git checkout
 git status
 git init
 git log
-git diff
-git add
+git diff file1 file2
+git add file_name
+git reset file_name
+git commit
