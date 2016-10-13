@@ -1,0 +1,3 @@
+this my new file for ptractising git
+Hi hello bye bye..
+keep coding :)
